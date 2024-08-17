@@ -1,5 +1,3 @@
-//!\ DECLARE ALIAS AFTER assign prototype !
-
 /*
 object-assign
 (c) Sindre Sorhus
@@ -7,16 +5,6 @@ object-assign
 */
 
 /*! https://mths.be/punycode v1.4.1 by @mathias */
-
-/*!
- * GSAP 3.12.5
- * https://gsap.com
- *
- * @license Copyright 2008-2024, GreenSock. All rights reserved.
- * Subject to the terms at https://gsap.com/standard-license or for
- * Club GSAP members, the agreement issued with that membership.
- * @author: Jack Doyle, jack@greensock.com
-*/
 
 /*!
  * Vue.js v2.6.6
@@ -60,3 +48,15 @@ object-assign
  * Copyright (c) 2015 Jon Schlinkert.
  * Licensed under the MIT license.
  */
+
+//!\ DECLARE ALIAS AFTER assign prototype !
+
+/*!
+ * GSAP 3.12.5
+ * https://gsap.com
+ *
+ * @license Copyright 2008-2024, GreenSock. All rights reserved.
+ * Subject to the terms at https://gsap.com/standard-license or for
+ * Club GSAP members, the agreement issued with that membership.
+ * @author: Jack Doyle, jack@greensock.com
+*/
